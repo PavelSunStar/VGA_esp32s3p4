@@ -1,0 +1,22 @@
+# Arduino / ESP32 build files
+*.o
+*.a
+*.elf
+*.bin
+*.hex
+*.map
+
+# Dependency files
+*.d
+
+# IDE folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
